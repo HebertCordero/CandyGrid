@@ -3,7 +3,7 @@
 Candy Grid is a small practice and documentation about the use of grid in css.
 
 
-[TRY IT LIVE HERE](https://codepen.io/HebertCordero/pen/jOqmdNR)
+[TRY IT LIVE HERE](https://codepen.io/HebertCordero/pen/zYqzqKB)
 
 ## The Project
 
